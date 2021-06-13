@@ -2,7 +2,7 @@
 - 🏫 I am a 3rd year Software Engineering student in Swansea University
 - 👀 I am interested in Web and Mobile Applications
 - 🌱 I have experience with **PHP**, **Laravel**, **Kotlin**, **C#**, **C++**, **Java**
-- 📫 How to reach me: feintful@gmail.com
+- 📫 How to reach me: petko.kzmnv@gmail.com
 
 <!---
 PetkoKuzmanov/PetkoKuzmanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
