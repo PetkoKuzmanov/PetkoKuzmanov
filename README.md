@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PetkoKuzmanov
 - 🏫 I am a 3rd year Software Engineering student in Swansea University
 - 👀 I am interested in Web and Mobile Applications
-- 🌱 I have experience with **PHP**, **Laravel**, **Kotlin**, **C#**, **C++**, **Java**
+- 🌱 I have experience with **Kotlin**, **Java**, **PHP (Laravel)**, **C#**
 - 📫 How to reach me: petko.kzmnv@gmail.com
 
 <!---
